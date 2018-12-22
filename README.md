@@ -4,7 +4,9 @@ Resources from meetup on 12/22/18
 ### Getting Started:
 These instructions are nothing special and basically snippets from the respective tools docs.
 
-1.  [Make sure you have Node installed.](https://stackoverflow.com/questions/10475651/how-to-tell-if-node-js-is-installed-or-not)  [If not you can download it here.](https://nodejs.org/en/download/) 
+1.  [Make sure you have Node installed.](https://stackoverflow.com/questions/10475651/how-to-tell-if-node-js-is-installed-or-not)  
+[If not you can download it here.](https://nodejs.org/en/download/) 
+[What is npm? Read more.](https://www.npmjs.com/get-npm)
 
 2.  [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started.html), we'll go the Expo route as you may have guessed.  
     
