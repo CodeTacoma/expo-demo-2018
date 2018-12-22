@@ -13,8 +13,12 @@ These instructions are nothing special and basically snippets from the respectiv
 3.  Prepare to be blown away with how fast you can see your changes when building a mobile app.  
 No more 3 minute builds to check a UI change!
 
-4.  Interested in examples of stuff made with React Native?  [Checkout the React Native Awesome](http://www.awesome-react-native.com/).  There's also lists of tools used in popular projects for things like storage, payments and styling.
+4.  Interested in examples of stuff made with React Native?  
+[Checkout the React Native Awesome](http://www.awesome-react-native.com/).  
+There's also lists of tools used in popular projects for things like storage, payments and styling.
 
-5.  What about a backend?  I've used [Firebase, Google's platform](https://firebase.google.com/) and [AWS Amplify](https://aws-amplify.github.io/), there's also [Microsoft's App Center](https://appcenter.ms/) which I've heard good things about.
+5.  What about a backend?  
+I've used [Firebase, Google's platform](https://firebase.google.com/) and [AWS Amplify](https://aws-amplify.github.io/), there's also [Microsoft's App Center](https://appcenter.ms/) which I've heard good things about.
 
-6. React Native includes a performance hit when compared to native code.  This is often cited as one of the biggest drawbacks, [read more about it here](https://facebook.github.io/react-native/docs/performance.html#common-sources-of-performance-problems).
+6. React Native includes a performance hit when compared to native code.  
+This is often cited as one of the biggest drawbacks, [read more about it here](https://facebook.github.io/react-native/docs/performance.html#common-sources-of-performance-problems).
